@@ -2,8 +2,10 @@ rencana konten
 
 - javasqript
 # ES6 framework javascript
-      ^angular
+       ^view
 - laravel
 - php framework
+   ^laravel
 - interview
 - laporan
+- pyton
