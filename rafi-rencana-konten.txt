@@ -8,3 +8,4 @@ rencana konten
    ^laravel
 - interview
 - laporan
+- pyton
