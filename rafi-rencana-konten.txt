@@ -3,6 +3,7 @@ rencana konten
 - javasqript
 # ES6 framework javascript
        ^view
+- mysql
 - laravel
 - php framework
    ^laravel
