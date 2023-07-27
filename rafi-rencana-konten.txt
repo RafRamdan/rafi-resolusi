@@ -1,7 +1,8 @@
 rencana konten 
 
 - javasqript
-# ES6
+# ES6 
 - laravel
+- php framework
 - interview
 - laporan
