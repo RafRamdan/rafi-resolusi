@@ -1,4 +1,4 @@
 resolusi
-- membuat project sekolah
 - dapat menggunakan laravel dengan mahir
 - lulus 
+- membuat website sendiri
