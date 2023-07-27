@@ -1,0 +1,3 @@
+resolusi
+- membuat project sekolah
+- dapat menggunakan laravel dengan mahir
